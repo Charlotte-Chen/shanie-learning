@@ -1,6 +1,6 @@
 # Shanie學習
 
-給自己家用的每日學習小幫手：每天打開就看到「今天的學習計劃」——寰宇 DWE 官方步驟、家長常見補充（另外標示）、今天要拿的廖彩杏書，以及可以跟孩子說的簡單英文句子。
+給自己家用的每日學習小幫手：每天打開就看到「今天的學習計劃」——寰宇 DWE 官方步驟、家長常見補充（另外標示）、每天固定的排字母與 phonics、今天要拿的廖彩杏書，以及可以跟孩子說的簡單英文句子。
 
 網站：https://charlotte-chen.github.io/shanie-learning/
 
@@ -17,7 +17,7 @@
 ## 資料與版權
 - 書單資料：`data/lists/liao.json`（書名、作者、週次、ISBN、Open Library 連結與來源）。
 - 封面：直接從 Open Library Covers API 載入，repo 裡沒有存任何封面圖、電子書或音檔。找不到封面的書會顯示文字卡。
-- 寰宇資料：`data/programs/dwe.json`；對話句子：`data/talk.json`。
+- 寰宇資料：`data/programs/dwe.json`；每天固定項目：`data/daily.json`；對話句子：`data/talk.json`。
 
 ## 之後加別的書單
 1. 照 `data/lists/liao.json` 的格式新增一個檔案，例如 `data/lists/xxx.json`（`books` + `weeks`）。

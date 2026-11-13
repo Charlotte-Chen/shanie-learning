@@ -4,7 +4,7 @@
   const TZ = 'Asia/Taipei';
   const KEY = 'shanie:';
   const $app = document.getElementById('app');
-  const S = { data: {}, lists: [], dwe: null, talk: null };
+  const S = { data: {}, lists: [], dwe: null, talk: null, daily: null };
 
   // ---------- 小工具 ----------
   const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -87,7 +87,7 @@
     if (!listStart(list)) h += `<div class="notice">還沒設定廖彩杏開始日，先當作<b>今天是第 1 週第 1 天</b>。<button class="btn sm" data-act="startToday">就從今天開始</button> <a href="#settings">改日期</a></div>`;
     if (pos.notStarted) h += `<div class="notice">廖彩杏書單預計 ${esc(pos.start)} 開始，下面先預覽第 1 週。</div>`;
     if (!st.dweStart) h += `<div class="notice">寰宇進度還沒設定（顏色、第幾集、這個顏色從哪天開始）。<a href="#settings">去設定</a></div>`;
-    h += `<p class="muted" style="margin:6px 0 0;font-size:14px">建議順序：① 寰宇官方步驟 → ② 家長常見補充（可選）→ ③ 廖彩杏共讀 → ④ 今天可以說的話。順序可依作息調整。</p></section>`;
+    h += `<p class="muted" style="margin:6px 0 0;font-size:14px">建議順序：① 寰宇官方步驟 → ② 家長常見補充（可選）→ ③ 排字母與 phonics → ④ 廖彩杏共讀 → ⑤ 今天可以說的話。順序可依作息調整。</p></section>`;
 
     // ① DWE 官方
     const doneK = id => `done:${t}:${id}`;
@@ -113,9 +113,23 @@
       ${rotItem ? `<div class="notice" style="margin-top:10px">本站建議今天加做：<b>${esc(rotItem.name)}</b> <span class="badge b-site">本站輪替・非官方</span><br><span style="font-size:13px">${esc(dwe.rotationNote)}</span></div>` : ''}
       <ul class="check">${sup.map(o => { const d = store.get(doneK(o.id), false); return `<li class="${d ? 'done' : ''}"><input type="checkbox" data-done="${o.id}" ${d ? 'checked' : ''}><div><b>${esc(o.name)}</b><div class="how">${esc(o.how)}</div></div></li>`; }).join('')}</ul></section>`;
 
-    // ③ 廖彩杏
+    // ③ 每天固定
+    const habits = (S.daily && S.daily.items) || [];
+    if (habits.length) {
+      const sayHTML0 = x => `<div class="say"><div class="zh">${esc(x.zh)}</div><div class="en">“${esc(x.en)}”</div><div class="re">孩子可能回：${esc(x.reply)}</div></div>`;
+      h += `<section class="card sec-daily"><div class="kicker">③ 每天固定</div>
+        <h2>${esc(S.daily.title)}</h2>
+        <ul class="check">${habits.map(o => {
+          const d = store.get(doneK(o.id), false);
+          const links = (o.links || []).map(l => `<a class="btn sm ${l.kind === 'audio' ? 'ghost' : ''}" href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.title)}</a>${l.note ? `<span class="muted" style="font-size:12px">${esc(l.note)}</span>` : ''}`).join('');
+          const says = (o.say || []).map(sayHTML0).join('');
+          return `<li class="${d ? 'done' : ''}"><input type="checkbox" data-done="${esc(o.id)}" ${d ? 'checked' : ''} aria-label="${esc(o.name)}"><div><b>${esc(o.name)}</b><div class="how">${esc(o.how)}</div><div class="habit-links">${links}</div>${says ? `<div class="talk" style="margin-top:10px">${says}</div>` : ''}</div></li>`;
+        }).join('')}</ul></section>`;
+    }
+
+    // ④ 廖彩杏
     const plays = store.get(playsKey, 0);
-    h += `<section class="card"><div class="kicker">③ 廖彩杏共讀 · 今天拿這本</div>
+    h += `<section class="card"><div class="kicker">④ 廖彩杏共讀 · 今天拿這本</div>
       <div class="hero" style="margin-top:8px">${coverHTML(focus, 'big')}<div>
         <h3>${esc(focus.title)}</h3><div class="muted">${esc(focus.author)}</div>
         <div class="chips"><span class="chip">${esc(set.label)}</span>${set.reviewOf ? `<span class="chip">今天複習第 ${set.reviewOf} 週那組</span>` : ''}<span class="chip">書單第 ${focus.no} 本</span></div>
@@ -138,7 +152,7 @@
     const bookLines = [talk.book[seed % talk.book.length]].concat(pick(pool, 2));
     const dweLines = [].concat(pick(talk.dwe.ta, 1), pick(talk.dwe[rotId] || talk.dwe.sa, 1), pick(talk.dwe.sp, 1));
     const sayHTML = x => `<div class="say"><div class="zh">${esc(x.zh)}</div><div class="en">“${esc(x.en)}”</div><div class="re">孩子可能回：${esc(x.reply)}</div></div>`;
-    h += `<section class="card sec-talk"><div class="kicker">④ 今天可以說的話</div>
+    h += `<section class="card sec-talk"><div class="kicker">⑤ 今天可以說的話</div>
       <h2>跟 ${esc(st.childName)} 一起說</h2><p class="muted" style="font-size:13px;margin:0">${esc(talk.note)}</p>
       <h3>📖 讀《${esc(focus.title)}》時</h3><div class="talk">${bookLines.map(sayHTML).join('')}</div>
       <h3>🎬 玩寰宇時</h3><div class="talk">${dweLines.map(sayHTML).join('')}</div></section>`;
@@ -262,6 +276,7 @@
       S.lists = await Promise.all(idx.bookLists.map(l => j(l.file)));
       S.dwe = await j(idx.programs.find(p => p.id === 'dwe').file);
       S.talk = await j(idx.talk);
+      if (idx.daily) S.daily = await j(idx.daily);
     } catch (e) { $app.innerHTML = '<p class="pad">資料載入失敗，請重新整理。</p>'; return; }
     window.addEventListener('hashchange', route);
     let last = todayStr();

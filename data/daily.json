@@ -1,0 +1,19 @@
+{
+  "title": "排字母、聽 phonics",
+  "items": [
+    {
+      "id": "phonics",
+      "name": "記得排字母、聽 phonics",
+      "how": "先和孩子一起排字母，再聽 Patty Shukla 的 Phonics Song（字母與字母聲音，也有手語）。YouTube 上通常會有廣告；若想只聽沒有廣告的音檔，可用官方 MP3。",
+      "links": [
+        {"kind": "video", "title": "看 Phonics Song（YouTube）", "url": "https://www.youtube.com/watch?v=1btvnID6Z_A", "note": "通常會有廣告"},
+        {"kind": "audio", "title": "官方 Phonics MP3（無廣告音檔）", "url": "https://pattysprimarysongs.com/product/phonics-mp3-single/", "note": "同一首歌，只有聲音，官網 0.99 美元"}
+      ],
+      "say": [
+        {"zh": "排字母時，指著一個字母問：", "en": "What's this letter?", "reply": "It's A. / It's B."},
+        {"zh": "聽歌時，問這個字母的聲音：", "en": "What sound does B make?", "reply": "/b/ ／ ball"},
+        {"zh": "排完後一起找找看：", "en": "Can you find the letter S?", "reply": "Here it is!"}
+      ]
+    }
+  ]
+}

@@ -43,6 +43,10 @@ main{max-width:860px;margin:0 auto;padding:16px}
 .sec-sup .kicker{color:var(--sup)}
 .sec-talk{border-left:6px solid var(--talk)}
 .sec-talk .kicker{color:var(--talk)}
+.sec-daily{border-left:6px solid #c45c6a}
+.sec-daily .kicker{color:#c45c6a}
+.sec-daily ul.check input{accent-color:#c45c6a}
+.habit-links{margin-top:8px;display:flex;flex-wrap:wrap;gap:6px;align-items:center}
 .badge{display:inline-block;font-size:11px;font-weight:700;border-radius:6px;padding:1px 7px;vertical-align:middle;margin-left:6px}
 .b-off{background:#e3eefb;color:var(--off)}.b-sup{background:#efe7fb;color:var(--sup)}.b-site{background:#fdebd9;color:#b0602a}
 ul.check{list-style:none;padding:0;margin:8px 0}
