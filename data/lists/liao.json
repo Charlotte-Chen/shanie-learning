@@ -1,0 +1,2263 @@
+{
+ "id": "liao",
+ "name": "廖彩杏書單",
+ "shortName": "廖彩杏",
+ "kind": "weekly-books",
+ "weeksPerRound": 52,
+ "edition": "《用有聲書輕鬆聽出英語力：一年52週100本英文繪本閱讀計畫》（廖彩杏著，親子天下／天下雜誌，2012-05，ISBN 9789862415238）",
+ "method": "每週一組 3–4 本有聲書，整週固定同一組，每天播放／共讀 3 次（每次約 10–30 分鐘）；新書週之後安排複習週。",
+ "sources": [
+  {
+   "label": "三民網路書店：書籍資料（出版社、日期、ISBN）",
+   "url": "https://www.sanmin.com.tw/product/index/003001359"
+  },
+  {
+   "label": "城邦讀書花園：書籍介紹（播放三步驟、一天三次）",
+   "url": "https://www.cite.com.tw/book?id=24230"
+  },
+  {
+   "label": "阿卡索：52 週 100 本完整週次表",
+   "url": "https://www.acadsoc.com.cn/shaoeryingyu/shaoeryingyu/60625/"
+  },
+  {
+   "label": "小花生：52 週 100 本週次表（第 43–52 週交叉比對）",
+   "url": "https://m.xiaohuasheng.cn/blog/2200a4992a1eed43"
+  },
+  {
+   "label": "麥克兒童外文書店（媽咪愛）：依週次分組的台灣套書清單",
+   "url": "https://mamilove.com.tw/market/380993"
+  },
+  {
+   "label": "小花生書單：作者／出版社版本對照",
+   "url": "https://www.xiaohuasheng.cn/read/userbooklist_138146"
+  },
+  {
+   "label": "Open Library：書目與封面",
+   "url": "https://openlibrary.org/"
+  }
+ ],
+ "books": [
+  {
+   "id": "liao-001",
+   "no": 1,
+   "title": "My Very First Mother Goose",
+   "author": "Iona Opie 編；Rosemary Wells 繪",
+   "publisher": "Candlewick",
+   "tags": [
+    "rhyme"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 799427,
+    "url": "https://covers.openlibrary.org/b/id/799427-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL14928046W",
+   "isbn": "1564026205"
+  },
+  {
+   "id": "liao-002",
+   "no": 2,
+   "title": "Brown Bear, Brown Bear, What Do You See?",
+   "author": "Bill Martin Jr.；Eric Carle 繪",
+   "publisher": null,
+   "tags": [
+    "animals",
+    "colors"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 12624136,
+    "url": "https://covers.openlibrary.org/b/id/12624136-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL59133W",
+   "isbn": "9781250172549"
+  },
+  {
+   "id": "liao-003",
+   "no": 3,
+   "title": "The Wheels on the Bus",
+   "author": "Annie Kubler 繪",
+   "publisher": "Child's Play",
+   "tags": [
+    "vehicles"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 6797926,
+    "url": "https://covers.openlibrary.org/b/id/6797926-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL15833978W",
+   "isbn": "9780859537971",
+   "note": "版本以 Child's Play 洞洞書（Annie Kubler）為準，坊間也有其他版本。"
+  },
+  {
+   "id": "liao-004",
+   "no": 4,
+   "title": "Five Little Monkeys Jumping on the Bed",
+   "author": "Eileen Christelow",
+   "publisher": "Clarion",
+   "tags": [
+    "animals",
+    "counting"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 5547929,
+    "url": "https://covers.openlibrary.org/b/id/5547929-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL79819W",
+   "isbn": "9780395557013"
+  },
+  {
+   "id": "liao-005",
+   "no": 5,
+   "title": "Go Away, Mr. Wolf!",
+   "author": "Mathew Price",
+   "publisher": null,
+   "tags": [
+    "animals"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 2989360,
+    "url": "https://covers.openlibrary.org/b/id/2989360-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL452917W",
+   "isbn": "9781842480526"
+  },
+  {
+   "id": "liao-006",
+   "no": 6,
+   "title": "Down by the Station",
+   "author": "Jess Stockham 繪",
+   "publisher": "Child's Play",
+   "tags": [
+    "vehicles"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 5014575,
+    "url": "https://covers.openlibrary.org/b/id/5014575-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL8663162W",
+   "isbn": "9780859534574"
+  },
+  {
+   "id": "liao-007",
+   "no": 7,
+   "title": "Hop on Pop",
+   "author": "Dr. Seuss",
+   "publisher": "Random House",
+   "tags": [
+    "rhyme"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 254551,
+    "url": "https://covers.openlibrary.org/b/id/254551-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL261164W",
+   "isbn": "9780394800295"
+  },
+  {
+   "id": "liao-008",
+   "no": 8,
+   "title": "Five Little Men in a Flying Saucer",
+   "author": "Dan Crisp 繪",
+   "publisher": "Child's Play",
+   "tags": [
+    "counting",
+    "vehicles"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 951109,
+    "url": "https://covers.openlibrary.org/b/id/951109-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL19590948W",
+   "isbn": "1904550584"
+  },
+  {
+   "id": "liao-009",
+   "no": 9,
+   "title": "Green Eggs and Ham",
+   "author": "Dr. Seuss",
+   "publisher": "Random House",
+   "tags": [
+    "rhyme",
+    "food"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 231746,
+    "url": "https://covers.openlibrary.org/b/id/231746-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL1898308W",
+   "isbn": "9780375810886"
+  },
+  {
+   "id": "liao-010",
+   "no": 10,
+   "title": "Henny Penny",
+   "author": "H. Werner Zimmermann",
+   "publisher": "Scholastic",
+   "tags": [
+    "animals"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 4062226,
+    "url": "https://covers.openlibrary.org/b/id/4062226-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL17735425W",
+   "isbn": "0590423908",
+   "note": "Henny Penny 版本很多，本站依常見廖單標示 H. Werner Zimmermann 版。"
+  },
+  {
+   "id": "liao-011",
+   "no": 11,
+   "title": "Ape in a Cape: An Alphabet of Odd Animals",
+   "author": "Fritz Eichenberg",
+   "publisher": null,
+   "tags": [
+    "animals",
+    "alphabet"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 1120311,
+    "url": "https://covers.openlibrary.org/b/id/1120311-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL4289738W",
+   "isbn": "0152037225"
+  },
+  {
+   "id": "liao-012",
+   "no": 12,
+   "title": "Ten Fat Sausages",
+   "author": "Elke Zinsmeister 繪",
+   "publisher": "Child's Play",
+   "tags": [
+    "counting"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 9884815,
+    "url": "https://covers.openlibrary.org/b/id/9884815-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL17896455W",
+   "isbn": "1904550592"
+  },
+  {
+   "id": "liao-013",
+   "no": 13,
+   "title": "The Very Hungry Caterpillar",
+   "author": "Eric Carle",
+   "publisher": null,
+   "tags": [
+    "food",
+    "nature"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 8824619,
+    "url": "https://covers.openlibrary.org/b/id/8824619-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL52987W",
+   "isbn": "9780525516194"
+  },
+  {
+   "id": "liao-014",
+   "no": 14,
+   "title": "Today Is Monday",
+   "author": "Eric Carle",
+   "publisher": null,
+   "tags": [
+    "days"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 259485,
+    "url": "https://covers.openlibrary.org/b/id/259485-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL53011W",
+   "isbn": "0399219668"
+  },
+  {
+   "id": "liao-015",
+   "no": 15,
+   "title": "Hattie and the Fox",
+   "author": "Mem Fox；Patricia Mullins 繪",
+   "publisher": null,
+   "tags": [
+    "animals"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 760656,
+    "url": "https://covers.openlibrary.org/b/id/760656-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL650922W",
+   "isbn": "9781416903086"
+  },
+  {
+   "id": "liao-016",
+   "no": 16,
+   "title": "I Am the Music Man",
+   "author": "Debra Potter 繪",
+   "publisher": "Child's Play",
+   "tags": [
+    "body"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 2110696,
+    "url": "https://covers.openlibrary.org/b/id/2110696-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL19167251W",
+   "isbn": "1904550606"
+  },
+  {
+   "id": "liao-017",
+   "no": 17,
+   "title": "Does a Kangaroo Have a Mother, Too?",
+   "author": "Eric Carle",
+   "publisher": null,
+   "tags": [
+    "animals"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 24970,
+    "url": "https://covers.openlibrary.org/b/id/24970-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL53032W",
+   "isbn": "9780060287672"
+  },
+  {
+   "id": "liao-018",
+   "no": 18,
+   "title": "Fox in Socks",
+   "author": "Dr. Seuss",
+   "publisher": "Random House",
+   "tags": [
+    "rhyme"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 8832133,
+    "url": "https://covers.openlibrary.org/b/id/8832133-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL261159W"
+  },
+  {
+   "id": "liao-019",
+   "no": 19,
+   "title": "Five Little Ducks",
+   "author": "Penny Ives 繪",
+   "publisher": "Child's Play",
+   "tags": [
+    "animals",
+    "counting"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 4979600,
+    "url": "https://covers.openlibrary.org/b/id/4979600-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL2572568W",
+   "isbn": "9781846431371"
+  },
+  {
+   "id": "liao-020",
+   "no": 20,
+   "title": "Dr. Seuss's ABC",
+   "author": "Dr. Seuss",
+   "publisher": "Random House",
+   "tags": [
+    "rhyme",
+    "alphabet"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 423014,
+    "url": "https://covers.openlibrary.org/b/id/423014-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL261152W",
+   "isbn": "0679882812"
+  },
+  {
+   "id": "liao-021",
+   "no": 21,
+   "title": "Dry Bones",
+   "author": "Kate Edmunds 繪",
+   "publisher": "Child's Play",
+   "tags": [
+    "counting",
+    "body"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 7142489,
+    "url": "https://covers.openlibrary.org/b/id/7142489-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL9793767W",
+   "isbn": "9781846431081"
+  },
+  {
+   "id": "liao-022",
+   "no": 22,
+   "title": "Go Away, Big Green Monster!",
+   "author": "Ed Emberley",
+   "publisher": null,
+   "tags": [
+    "animals",
+    "colors",
+    "monster"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 188727,
+    "url": "https://covers.openlibrary.org/b/id/188727-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL2725701W",
+   "isbn": "0316236535"
+  },
+  {
+   "id": "liao-023",
+   "no": 23,
+   "title": "Five Little Monkeys Sitting in a Tree",
+   "author": "Eileen Christelow",
+   "publisher": "Clarion",
+   "tags": [
+    "animals",
+    "counting"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 255961,
+    "url": "https://covers.openlibrary.org/b/id/255961-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL79816W",
+   "isbn": "0395544343"
+  },
+  {
+   "id": "liao-024",
+   "no": 24,
+   "title": "Sheep in a Jeep",
+   "author": "Nancy E. Shaw；Margot Apple 繪",
+   "publisher": null,
+   "tags": [
+    "animals"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 255747,
+    "url": "https://covers.openlibrary.org/b/id/255747-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL3342530W",
+   "isbn": "039541105X"
+  },
+  {
+   "id": "liao-025",
+   "no": 25,
+   "title": "The Mixed-Up Chameleon",
+   "author": "Eric Carle",
+   "publisher": null,
+   "tags": [
+    "animals",
+    "colors"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 50836,
+    "url": "https://covers.openlibrary.org/b/id/50836-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL52978W",
+   "isbn": "9780064431620"
+  },
+  {
+   "id": "liao-026",
+   "no": 26,
+   "title": "Down in the Jungle",
+   "author": "Elisa Squillace 繪",
+   "publisher": "Child's Play",
+   "tags": [
+    "counting",
+    "body"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 2110697,
+    "url": "https://covers.openlibrary.org/b/id/2110697-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL18219209W",
+   "isbn": "1904550614"
+  },
+  {
+   "id": "liao-027",
+   "no": 27,
+   "title": "Goodnight Moon",
+   "author": "Margaret Wise Brown；Clement Hurd 繪",
+   "publisher": null,
+   "tags": [
+    "bedtime"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 35556,
+    "url": "https://covers.openlibrary.org/b/id/35556-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL151798W",
+   "isbn": "9780060775858"
+  },
+  {
+   "id": "liao-028",
+   "no": 28,
+   "title": "Sheep in a Shop",
+   "author": "Nancy E. Shaw；Margot Apple 繪",
+   "publisher": null,
+   "tags": [
+    "animals"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 255943,
+    "url": "https://covers.openlibrary.org/b/id/255943-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL3342531W",
+   "isbn": "0395536812"
+  },
+  {
+   "id": "liao-029",
+   "no": 29,
+   "title": "Here We Go Round the Mulberry Bush",
+   "author": "Annie Kubler 繪",
+   "publisher": "Child's Play",
+   "tags": [
+    "rhyme",
+    "body",
+    "days"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 1606366,
+    "url": "https://covers.openlibrary.org/b/id/1606366-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL25154383W",
+   "isbn": "9780859538855"
+  },
+  {
+   "id": "liao-030",
+   "no": 30,
+   "title": "King Bidgood's in the Bathtub",
+   "author": "Audrey Wood；Don Wood 繪",
+   "publisher": null,
+   "tags": [
+    "bedtime"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 114379,
+    "url": "https://covers.openlibrary.org/b/id/114379-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL547443W",
+   "isbn": "0152427309"
+  },
+  {
+   "id": "liao-031",
+   "no": 31,
+   "title": "Rosie's Walk",
+   "author": "Pat Hutchins",
+   "publisher": null,
+   "tags": [
+    "animals"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 14324,
+    "url": "https://covers.openlibrary.org/b/id/14324-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL18805W",
+   "isbn": "9780020437505"
+  },
+  {
+   "id": "liao-032",
+   "no": 32,
+   "title": "Color Zoo",
+   "author": "Lois Ehlert",
+   "publisher": null,
+   "tags": [
+    "colors"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 258175,
+    "url": "https://covers.openlibrary.org/b/id/258175-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL2347065W",
+   "isbn": "0397322593"
+  },
+  {
+   "id": "liao-033",
+   "no": 33,
+   "title": "The Napping House",
+   "author": "Audrey Wood；Don Wood 繪",
+   "publisher": null,
+   "tags": [
+    "bedtime"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 114437,
+    "url": "https://covers.openlibrary.org/b/id/114437-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL547418W",
+   "isbn": "9780152567088"
+  },
+  {
+   "id": "liao-034",
+   "no": 34,
+   "title": "We All Go Traveling By",
+   "author": "Sheena Roberts；Siobhan Bell 繪",
+   "publisher": "Barefoot Books",
+   "tags": [
+    "vehicles"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 2017335,
+    "url": "https://covers.openlibrary.org/b/id/2017335-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL5715540W",
+   "isbn": "1841481688"
+  },
+  {
+   "id": "liao-035",
+   "no": 35,
+   "title": "Creepy Crawly Calypso",
+   "author": "Tony Langham；Debbie Harter 繪",
+   "publisher": "Barefoot Books",
+   "tags": [
+    "animals"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 885977,
+    "url": "https://covers.openlibrary.org/b/id/885977-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL6030421W",
+   "isbn": "184148699X"
+  },
+  {
+   "id": "liao-036",
+   "no": 36,
+   "title": "Polar Bear, Polar Bear, What Do You Hear?",
+   "author": "Bill Martin Jr.；Eric Carle 繪",
+   "publisher": null,
+   "tags": [
+    "animals",
+    "colors"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 10959647,
+    "url": "https://covers.openlibrary.org/b/id/10959647-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL59132W",
+   "isbn": "0805017593"
+  },
+  {
+   "id": "liao-037",
+   "no": 37,
+   "title": "We're Going on a Bear Hunt",
+   "author": "Michael Rosen；Helen Oxenbury 繪",
+   "publisher": null,
+   "tags": [
+    "animals",
+    "body"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 433694,
+    "url": "https://covers.openlibrary.org/b/id/433694-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL832133W",
+   "isbn": "0689716532"
+  },
+  {
+   "id": "liao-038",
+   "no": 38,
+   "title": "Guess How Much I Love You",
+   "author": "Sam McBratney；Anita Jeram 繪",
+   "publisher": null,
+   "tags": [
+    "animals",
+    "feelings"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 13282906,
+    "url": "https://covers.openlibrary.org/b/id/13282906-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL58402W",
+   "isbn": "9780763642648"
+  },
+  {
+   "id": "liao-039",
+   "no": 39,
+   "title": "The Very Quiet Cricket",
+   "author": "Eric Carle",
+   "publisher": null,
+   "tags": [
+    "animals",
+    "nature"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 259476,
+    "url": "https://covers.openlibrary.org/b/id/259476-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL53023W",
+   "isbn": "0399218858"
+  },
+  {
+   "id": "liao-040",
+   "no": 40,
+   "title": "Walking Through the Jungle",
+   "author": "Stella Blackstone；Debbie Harter 繪",
+   "publisher": "Barefoot Books",
+   "tags": [
+    "animals",
+    "body"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 885969,
+    "url": "https://covers.openlibrary.org/b/id/885969-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL3348606W",
+   "isbn": "9781841485485"
+  },
+  {
+   "id": "liao-041",
+   "no": 41,
+   "title": "Is Your Mama a Llama?",
+   "author": "Deborah Guarino；Steven Kellogg 繪",
+   "publisher": null,
+   "tags": [
+    "animals"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 383707,
+    "url": "https://covers.openlibrary.org/b/id/383707-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL4982789W",
+   "isbn": "9780590413879"
+  },
+  {
+   "id": "liao-042",
+   "no": 42,
+   "title": "Animal Boogie",
+   "author": "Debbie Harter",
+   "publisher": "Barefoot Books",
+   "tags": [
+    "animals",
+    "body"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 13649636,
+    "url": "https://covers.openlibrary.org/b/id/13649636-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL31926612W",
+   "isbn": "9781841480930"
+  },
+  {
+   "id": "liao-043",
+   "no": 43,
+   "title": "The Foot Book",
+   "author": "Dr. Seuss",
+   "publisher": "Random House",
+   "tags": [
+    "rhyme",
+    "body"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 231794,
+    "url": "https://covers.openlibrary.org/b/id/231794-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL1898304W",
+   "isbn": "0375811354"
+  },
+  {
+   "id": "liao-044",
+   "no": 44,
+   "title": "Kipper's A to Z",
+   "author": "Mick Inkpen",
+   "publisher": null,
+   "tags": [
+    "animals",
+    "alphabet"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 113473,
+    "url": "https://covers.openlibrary.org/b/id/113473-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL97076W",
+   "isbn": "0152025944"
+  },
+  {
+   "id": "liao-045",
+   "no": 45,
+   "title": "One Fish Two Fish Red Fish Blue Fish",
+   "author": "Dr. Seuss",
+   "publisher": "Random House",
+   "tags": [
+    "rhyme"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 12096,
+    "url": "https://covers.openlibrary.org/b/id/12096-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL261202W",
+   "isbn": "9780007173686"
+  },
+  {
+   "id": "liao-046",
+   "no": 46,
+   "title": "The Journey Home from Grandpa's",
+   "author": "Jemima Lumley；Sophie Fatus 繪",
+   "publisher": "Barefoot Books",
+   "tags": [
+    "vehicles"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 2113523,
+    "url": "https://covers.openlibrary.org/b/id/2113523-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL5838114W",
+   "isbn": "1905236379"
+  },
+  {
+   "id": "liao-047",
+   "no": 47,
+   "title": "Chicken Soup with Rice",
+   "author": "Maurice Sendak",
+   "publisher": null,
+   "tags": [
+    "food",
+    "days"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 24087,
+    "url": "https://covers.openlibrary.org/b/id/24087-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL2568878W",
+   "isbn": "9780060255350"
+  },
+  {
+   "id": "liao-048",
+   "no": 48,
+   "title": "On Market Street",
+   "author": "Arnold Lobel；Anita Lobel 繪",
+   "publisher": null,
+   "tags": [
+    "alphabet"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 430469,
+    "url": "https://covers.openlibrary.org/b/id/430469-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL1973462W",
+   "isbn": "9780688087456"
+  },
+  {
+   "id": "liao-049",
+   "no": 49,
+   "title": "Silly Sally",
+   "author": "Audrey Wood",
+   "publisher": null,
+   "tags": [
+    "feelings"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 113225,
+    "url": "https://covers.openlibrary.org/b/id/113225-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL547437W",
+   "isbn": "0152019901"
+  },
+  {
+   "id": "liao-050",
+   "no": 50,
+   "title": "Each Peach Pear Plum",
+   "author": "Janet & Allan Ahlberg",
+   "publisher": null,
+   "tags": [
+    "animals"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 5375131,
+    "url": "https://covers.openlibrary.org/b/id/5375131-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL807816W",
+   "isbn": "000661678X"
+  },
+  {
+   "id": "liao-051",
+   "no": 51,
+   "title": "Papa, Please Get the Moon for Me",
+   "author": "Eric Carle",
+   "publisher": null,
+   "tags": [
+    "food",
+    "space"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 683740,
+    "url": "https://covers.openlibrary.org/b/id/683740-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL53010W",
+   "isbn": "088708026X"
+  },
+  {
+   "id": "liao-052",
+   "no": 52,
+   "title": "Quick as a Cricket",
+   "author": "Audrey Wood；Don Wood 繪",
+   "publisher": "Child's Play",
+   "tags": [
+    "animals"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 6555301,
+    "url": "https://covers.openlibrary.org/b/id/6555301-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL547427W",
+   "isbn": "9780859531511"
+  },
+  {
+   "id": "liao-053",
+   "no": 53,
+   "title": "Eating the Alphabet",
+   "author": "Lois Ehlert",
+   "publisher": null,
+   "tags": [
+    "food",
+    "alphabet"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 9736349,
+    "url": "https://covers.openlibrary.org/b/id/9736349-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL2347078W",
+   "isbn": "9780152056889"
+  },
+  {
+   "id": "liao-054",
+   "no": 54,
+   "title": "See You Later, Alligator!",
+   "author": "Annie Kubler 繪",
+   "publisher": "Child's Play",
+   "tags": [
+    "animals"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 951102,
+    "url": "https://covers.openlibrary.org/b/id/951102-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL25090410W",
+   "isbn": "9781904550051"
+  },
+  {
+   "id": "liao-055",
+   "no": 55,
+   "title": "The Princess and the Dragon",
+   "author": "Audrey Wood",
+   "publisher": "Child's Play",
+   "tags": [
+    "feelings"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 1606330,
+    "url": "https://covers.openlibrary.org/b/id/1606330-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL547424W",
+   "isbn": "9780859537162"
+  },
+  {
+   "id": "liao-056",
+   "no": 56,
+   "title": "I Am an Apple",
+   "author": "Jean Marzollo；Judith Moffatt 繪",
+   "publisher": "Scholastic",
+   "tags": [
+    "food",
+    "nature"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 383529,
+    "url": "https://covers.openlibrary.org/b/id/383529-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL14855928W",
+   "isbn": "0590372238"
+  },
+  {
+   "id": "liao-057",
+   "no": 57,
+   "title": "I'm a Caterpillar",
+   "author": "Jean Marzollo；Judith Moffatt 繪",
+   "publisher": "Scholastic",
+   "tags": [
+    "nature"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 385619,
+    "url": "https://covers.openlibrary.org/b/id/385619-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL14855944W",
+   "isbn": "0590847791"
+  },
+  {
+   "id": "liao-058",
+   "no": 58,
+   "title": "The Little Mouse, the Red Ripe Strawberry, and the Big Hungry Bear",
+   "author": "Don & Audrey Wood",
+   "publisher": "Child's Play",
+   "tags": [
+    "food"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 651372,
+    "url": "https://covers.openlibrary.org/b/id/651372-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL547420W",
+   "isbn": "9780859533300"
+  },
+  {
+   "id": "liao-059",
+   "no": 59,
+   "title": "A Dragon on the Doorstep",
+   "author": "Stella Blackstone；Debbie Harter 繪",
+   "publisher": "Barefoot Books",
+   "tags": [
+    "feelings",
+    "monster"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 885904,
+    "url": "https://covers.openlibrary.org/b/id/885904-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL2562399W",
+   "isbn": "1841482277"
+  },
+  {
+   "id": "liao-060",
+   "no": 60,
+   "title": "Alligators All Around",
+   "author": "Maurice Sendak",
+   "publisher": null,
+   "tags": [
+    "alphabet"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 24085,
+    "url": "https://covers.openlibrary.org/b/id/24085-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL2568874W",
+   "isbn": "9780060255305"
+  },
+  {
+   "id": "liao-061",
+   "no": 61,
+   "title": "I'm a Seed",
+   "author": "Jean Marzollo；Judith Moffatt 繪",
+   "publisher": "Scholastic",
+   "tags": [
+    "nature"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 383378,
+    "url": "https://covers.openlibrary.org/b/id/383378-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL14855948W",
+   "isbn": "0590265865"
+  },
+  {
+   "id": "liao-062",
+   "no": 62,
+   "title": "I Am a Star",
+   "author": "Jean Marzollo；Judith Moffatt 繪",
+   "publisher": "Scholastic",
+   "tags": [
+    "nature",
+    "space"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 1321662,
+    "url": "https://covers.openlibrary.org/b/id/1321662-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL14855932W",
+   "isbn": "9780613355254"
+  },
+  {
+   "id": "liao-063",
+   "no": 63,
+   "title": "Maisy Goes Camping",
+   "author": "Lucy Cousins",
+   "publisher": "Walker Books",
+   "tags": [
+    "animals"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 516314,
+    "url": "https://covers.openlibrary.org/b/id/516314-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL112885W",
+   "isbn": "9780763623692"
+  },
+  {
+   "id": "liao-064",
+   "no": 64,
+   "title": "The Itsy Bitsy Spider",
+   "author": "Iza Trapani",
+   "publisher": "Charlesbridge",
+   "tags": [
+    "rhyme"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 6791403,
+    "url": "https://covers.openlibrary.org/b/id/6791403-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL15211920W",
+   "isbn": "1580890148",
+   "note": "常見廖單版本為 Iza Trapani，若你家是別的版本以實體書為準。"
+  },
+  {
+   "id": "liao-065",
+   "no": 65,
+   "title": "I Am Snow",
+   "author": "Jean Marzollo；Judith Moffatt 繪",
+   "publisher": "Scholastic",
+   "tags": [
+    "nature"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 385268,
+    "url": "https://covers.openlibrary.org/b/id/385268-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL14856090W",
+   "isbn": "0590641743"
+  },
+  {
+   "id": "liao-066",
+   "no": 66,
+   "title": "I Am Water",
+   "author": "Jean Marzollo；Judith Moffatt 繪",
+   "publisher": "Scholastic",
+   "tags": [
+    "nature"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 1316187,
+    "url": "https://covers.openlibrary.org/b/id/1316187-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL14856091W",
+   "isbn": "9780613002653"
+  },
+  {
+   "id": "liao-067",
+   "no": 67,
+   "title": "Maisy's Christmas Eve",
+   "author": "Lucy Cousins",
+   "publisher": "Walker Books",
+   "tags": [
+    "animals"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 482004,
+    "url": "https://covers.openlibrary.org/b/id/482004-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL14913658W",
+   "isbn": "9780744557671"
+  },
+  {
+   "id": "liao-068",
+   "no": 68,
+   "title": "I Am a Leaf",
+   "author": "Jean Marzollo；Judith Moffatt 繪",
+   "publisher": "Scholastic",
+   "tags": [
+    "nature"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 385266,
+    "url": "https://covers.openlibrary.org/b/id/385266-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL14855926W",
+   "isbn": "9780590641203"
+  },
+  {
+   "id": "liao-069",
+   "no": 69,
+   "title": "I Am Fire",
+   "author": "Jean Marzollo；Judith Moffatt 繪",
+   "publisher": "Scholastic",
+   "tags": [
+    "nature"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 1316191,
+    "url": "https://covers.openlibrary.org/b/id/1316191-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL14855935W",
+   "isbn": "9780613002714"
+  },
+  {
+   "id": "liao-070",
+   "no": 70,
+   "title": "Over in the Meadow",
+   "author": "Child's Play 版（繪者待確認）",
+   "publisher": "Child's Play",
+   "tags": [
+    "rhyme",
+    "nature"
+   ],
+   "cover": null,
+   "note": "這本常見為 Child's Play 有聲版，各書單標的繪者不一致，封面先留白。"
+  },
+  {
+   "id": "liao-071",
+   "no": 71,
+   "title": "Do You Want to Be My Friend?",
+   "author": "Eric Carle",
+   "publisher": null,
+   "tags": [
+    "feelings"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 2243425,
+    "url": "https://covers.openlibrary.org/b/id/2243425-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL52967W"
+  },
+  {
+   "id": "liao-072",
+   "no": 72,
+   "title": "I Am a Rock",
+   "author": "Jean Marzollo；Judith Moffatt 繪",
+   "publisher": "Scholastic",
+   "tags": [
+    "nature"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 383528,
+    "url": "https://covers.openlibrary.org/b/id/383528-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL14856089W",
+   "isbn": "059037222X"
+  },
+  {
+   "id": "liao-073",
+   "no": 73,
+   "title": "I Am Planet Earth",
+   "author": "Jean Marzollo；Judith Moffatt 繪",
+   "publisher": "Scholastic",
+   "tags": [
+    "nature",
+    "space"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 1321663,
+    "url": "https://covers.openlibrary.org/b/id/1321663-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL14855938W",
+   "isbn": "9780613355261"
+  },
+  {
+   "id": "liao-074",
+   "no": 74,
+   "title": "Row, Row, Row Your Boat",
+   "author": "Iza Trapani",
+   "publisher": "Charlesbridge",
+   "tags": [
+    "rhyme"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 1580493,
+    "url": "https://covers.openlibrary.org/b/id/1580493-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL15211917W",
+   "isbn": "083682668X",
+   "note": "常見廖單版本為 Iza Trapani，若你家是別的版本以實體書為準。"
+  },
+  {
+   "id": "liao-075",
+   "no": 75,
+   "title": "Handa's Surprise",
+   "author": "Eileen Browne",
+   "publisher": "Walker Books",
+   "tags": [
+    "food"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 6508107,
+    "url": "https://covers.openlibrary.org/b/id/6508107-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL3900345W",
+   "isbn": "9780439056540"
+  },
+  {
+   "id": "liao-076",
+   "no": 76,
+   "title": "The Solar System",
+   "author": "Melvin & Gilda Berger",
+   "publisher": "Scholastic",
+   "tags": [
+    "space"
+   ],
+   "cover": null,
+   "openLibrary": "https://openlibrary.org/works/OL15152430W",
+   "note": "Scholastic 科學讀本（Melvin & Gilda Berger）；Open Library 只有西文版封面，先留白。"
+  },
+  {
+   "id": "liao-077",
+   "no": 77,
+   "title": "The Sun",
+   "author": "Melvin & Gilda Berger",
+   "publisher": "Scholastic",
+   "tags": [
+    "space"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 10006886,
+    "url": "https://covers.openlibrary.org/b/id/10006886-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL18156011W",
+   "isbn": "9780439574778"
+  },
+  {
+   "id": "liao-078",
+   "no": 78,
+   "title": "What's the Time, Mr. Wolf?",
+   "author": "Annie Kubler 繪",
+   "publisher": "Child's Play",
+   "tags": [
+    "animals"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 651424,
+    "url": "https://covers.openlibrary.org/b/id/651424-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL26291587W",
+   "isbn": "9780859539449"
+  },
+  {
+   "id": "liao-079",
+   "no": 79,
+   "title": "Earth",
+   "author": "Melvin & Gilda Berger",
+   "publisher": "Scholastic",
+   "tags": [
+    "space"
+   ],
+   "cover": null,
+   "note": "Scholastic 科學讀本（Melvin & Gilda Berger）；Open Library 沒有這本的封面。"
+  },
+  {
+   "id": "liao-080",
+   "no": 80,
+   "title": "The Moon",
+   "author": "Melvin & Gilda Berger",
+   "publisher": "Scholastic",
+   "tags": [
+    "space"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 12828608,
+    "url": "https://covers.openlibrary.org/b/id/12828608-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL28588427W",
+   "isbn": "9780439574785"
+  },
+  {
+   "id": "liao-081",
+   "no": 81,
+   "title": "Tomorrow's Alphabet",
+   "author": "George Shannon；Donald Crews 繪",
+   "publisher": null,
+   "tags": [
+    "alphabet"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 3877783,
+    "url": "https://covers.openlibrary.org/b/id/3877783-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL54911W",
+   "isbn": "0688135048"
+  },
+  {
+   "id": "liao-082",
+   "no": 82,
+   "title": "Where's My Teddy?",
+   "author": "Jez Alborough",
+   "publisher": null,
+   "tags": [
+    "animals",
+    "feelings"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 799309,
+    "url": "https://covers.openlibrary.org/b/id/799309-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL58455W",
+   "isbn": "1564020487"
+  },
+  {
+   "id": "liao-083",
+   "no": 83,
+   "title": "Comets",
+   "author": "Melvin & Gilda Berger",
+   "publisher": "Scholastic",
+   "tags": [
+    "space"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 6874963,
+    "url": "https://covers.openlibrary.org/b/id/6874963-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL15719959W",
+   "isbn": "9780439574792"
+  },
+  {
+   "id": "liao-084",
+   "no": 84,
+   "title": "If You Give a Mouse a Cookie",
+   "author": "Laura Numeroff；Felicia Bond 繪",
+   "publisher": null,
+   "tags": [
+    "animals",
+    "food"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 50977,
+    "url": "https://covers.openlibrary.org/b/id/50977-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL61432W",
+   "isbn": "9780064434096"
+  },
+  {
+   "id": "liao-085",
+   "no": 85,
+   "title": "Owl Babies",
+   "author": "Martin Waddell；Patrick Benson 繪",
+   "publisher": null,
+   "tags": [
+    "animals",
+    "feelings"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 799318,
+    "url": "https://covers.openlibrary.org/b/id/799318-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL114136W",
+   "isbn": "1564021017"
+  },
+  {
+   "id": "liao-086",
+   "no": 86,
+   "title": "Shooting Stars",
+   "author": "Melvin & Gilda Berger",
+   "publisher": "Scholastic",
+   "tags": [
+    "space"
+   ],
+   "cover": null,
+   "note": "Scholastic 科學讀本（Melvin & Gilda Berger）；Open Library 沒有對應封面。"
+  },
+  {
+   "id": "liao-087",
+   "no": 87,
+   "title": "Chicka Chicka Boom Boom",
+   "author": "Bill Martin Jr. & John Archambault；Lois Ehlert 繪",
+   "publisher": null,
+   "tags": [
+    "alphabet"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 1320266,
+    "url": "https://covers.openlibrary.org/b/id/1320266-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL59121W",
+   "isbn": "9780613284431"
+  },
+  {
+   "id": "liao-088",
+   "no": 88,
+   "title": "If You Take a Mouse to School",
+   "author": "Laura Numeroff；Felicia Bond 繪",
+   "publisher": null,
+   "tags": [
+    "animals"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 24732,
+    "url": "https://covers.openlibrary.org/b/id/24732-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL61455W",
+   "isbn": "0060283289"
+  },
+  {
+   "id": "liao-089",
+   "no": 89,
+   "title": "Kipper's Christmas Eve",
+   "author": "Mick Inkpen",
+   "publisher": null,
+   "tags": [
+    "animals"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 113508,
+    "url": "https://covers.openlibrary.org/b/id/113508-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL97022W",
+   "isbn": "0152026606"
+  },
+  {
+   "id": "liao-090",
+   "no": 90,
+   "title": "Mouse Paint",
+   "author": "Ellen Stoll Walsh",
+   "publisher": null,
+   "tags": [
+    "animals",
+    "colors"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 6903320,
+    "url": "https://covers.openlibrary.org/b/id/6903320-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL16032287W",
+   "isbn": "9780590132077"
+  },
+  {
+   "id": "liao-091",
+   "no": 91,
+   "title": "Curious George Learns the Alphabet",
+   "author": "H. A. Rey",
+   "publisher": null,
+   "tags": [
+    "alphabet"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 255405,
+    "url": "https://covers.openlibrary.org/b/id/255405-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL2023844W",
+   "isbn": "0395137187"
+  },
+  {
+   "id": "liao-092",
+   "no": 92,
+   "title": "If the Dinosaurs Came Back",
+   "author": "Bernard Most",
+   "publisher": null,
+   "tags": [
+    "animals",
+    "dinosaur"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 114361,
+    "url": "https://covers.openlibrary.org/b/id/114361-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL1802440W",
+   "isbn": "0152003800"
+  },
+  {
+   "id": "liao-093",
+   "no": 93,
+   "title": "Kipper's Monster",
+   "author": "Mick Inkpen",
+   "publisher": null,
+   "tags": [
+    "animals",
+    "monster"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 114214,
+    "url": "https://covers.openlibrary.org/b/id/114214-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL97049W",
+   "isbn": "0152166149"
+  },
+  {
+   "id": "liao-094",
+   "no": 94,
+   "title": "Madeline",
+   "author": "Ludwig Bemelmans",
+   "publisher": null,
+   "tags": [
+    "feelings"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "isbn": "9780670445806",
+    "url": "https://covers.openlibrary.org/b/isbn/9780670445806-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL1980945W",
+   "isbn": "9780670445806"
+  },
+  {
+   "id": "liao-095",
+   "no": 95,
+   "title": "Miss Nelson Is Missing!",
+   "author": "Harry Allard；James Marshall 繪",
+   "publisher": null,
+   "tags": [
+    "feelings"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 255503,
+    "url": "https://covers.openlibrary.org/b/id/255503-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL3237560W",
+   "isbn": "0395252962"
+  },
+  {
+   "id": "liao-096",
+   "no": 96,
+   "title": "The Blue Balloon",
+   "author": "Mick Inkpen",
+   "publisher": null,
+   "tags": [
+    "animals",
+    "feelings"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 2379469,
+    "url": "https://covers.openlibrary.org/b/id/2379469-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL97081W",
+   "isbn": "0316418862"
+  },
+  {
+   "id": "liao-097",
+   "no": 97,
+   "title": "The Runaway Bunny",
+   "author": "Margaret Wise Brown；Clement Hurd 繪",
+   "publisher": null,
+   "tags": [
+    "animals",
+    "bedtime",
+    "feelings"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 8743590,
+    "url": "https://covers.openlibrary.org/b/id/8743590-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL151861W"
+  },
+  {
+   "id": "liao-098",
+   "no": 98,
+   "title": "Click, Clack, Moo: Cows That Type",
+   "author": "Doreen Cronin；Betsy Lewin 繪",
+   "publisher": null,
+   "tags": [
+    "animals"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 435646,
+    "url": "https://covers.openlibrary.org/b/id/435646-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL5703631W",
+   "isbn": "9780689832130"
+  },
+  {
+   "id": "liao-099",
+   "no": 99,
+   "title": "Dinosaur Encore",
+   "author": "Patricia Mullins",
+   "publisher": null,
+   "tags": [
+    "animals",
+    "dinosaur"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 4943825,
+    "url": "https://covers.openlibrary.org/b/id/4943825-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL3559683W",
+   "isbn": "9780064434652"
+  },
+  {
+   "id": "liao-100",
+   "no": 100,
+   "title": "Noisy Nora",
+   "author": "Rosemary Wells",
+   "publisher": null,
+   "tags": [
+    "animals",
+    "bedtime",
+    "feelings"
+   ],
+   "cover": {
+    "source": "openlibrary",
+    "coverId": 3844966,
+    "url": "https://covers.openlibrary.org/b/id/3844966-M.jpg"
+   },
+   "openLibrary": "https://openlibrary.org/works/OL32576W",
+   "isbn": "0803718357"
+  }
+ ],
+ "weeks": [
+  {
+   "week": 1,
+   "type": "new",
+   "books": [
+    "liao-001",
+    "liao-002",
+    "liao-003"
+   ]
+  },
+  {
+   "week": 2,
+   "type": "new",
+   "books": [
+    "liao-001",
+    "liao-004",
+    "liao-005"
+   ]
+  },
+  {
+   "week": 3,
+   "type": "new",
+   "books": [
+    "liao-001",
+    "liao-006",
+    "liao-007"
+   ]
+  },
+  {
+   "week": 4,
+   "type": "new",
+   "books": [
+    "liao-008",
+    "liao-009",
+    "liao-010"
+   ]
+  },
+  {
+   "week": 5,
+   "type": "review",
+   "reviewWeeks": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "week": 6,
+   "type": "review",
+   "reviewWeeks": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "week": 7,
+   "type": "new",
+   "books": [
+    "liao-011",
+    "liao-012",
+    "liao-013"
+   ]
+  },
+  {
+   "week": 8,
+   "type": "new",
+   "books": [
+    "liao-015",
+    "liao-016",
+    "liao-014"
+   ]
+  },
+  {
+   "week": 9,
+   "type": "new",
+   "books": [
+    "liao-017",
+    "liao-019",
+    "liao-018"
+   ]
+  },
+  {
+   "week": 10,
+   "type": "new",
+   "books": [
+    "liao-020",
+    "liao-021",
+    "liao-022"
+   ]
+  },
+  {
+   "week": 11,
+   "type": "review",
+   "reviewWeeks": [
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "week": 12,
+   "type": "review",
+   "reviewWeeks": [
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "week": 13,
+   "type": "review",
+   "reviewWeeks": [
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "week": 14,
+   "type": "new",
+   "books": [
+    "liao-023",
+    "liao-024",
+    "liao-025"
+   ]
+  },
+  {
+   "week": 15,
+   "type": "new",
+   "books": [
+    "liao-026",
+    "liao-027",
+    "liao-028"
+   ]
+  },
+  {
+   "week": 16,
+   "type": "new",
+   "books": [
+    "liao-029",
+    "liao-030",
+    "liao-031"
+   ]
+  },
+  {
+   "week": 17,
+   "type": "new",
+   "books": [
+    "liao-032",
+    "liao-033",
+    "liao-034"
+   ]
+  },
+  {
+   "week": 18,
+   "type": "review",
+   "reviewWeeks": [
+    14,
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "week": 19,
+   "type": "review",
+   "reviewWeeks": [
+    14,
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "week": 20,
+   "type": "new",
+   "books": [
+    "liao-035",
+    "liao-036",
+    "liao-037"
+   ]
+  },
+  {
+   "week": 21,
+   "type": "new",
+   "books": [
+    "liao-038",
+    "liao-039",
+    "liao-040"
+   ]
+  },
+  {
+   "week": 22,
+   "type": "new",
+   "books": [
+    "liao-041",
+    "liao-042",
+    "liao-043"
+   ]
+  },
+  {
+   "week": 23,
+   "type": "new",
+   "books": [
+    "liao-044",
+    "liao-045",
+    "liao-046"
+   ]
+  },
+  {
+   "week": 24,
+   "type": "review",
+   "reviewWeeks": [
+    20,
+    21,
+    22,
+    23
+   ]
+  },
+  {
+   "week": 25,
+   "type": "review",
+   "reviewWeeks": [
+    20,
+    21,
+    22,
+    23
+   ]
+  },
+  {
+   "week": 26,
+   "type": "review",
+   "reviewWeeks": [
+    20,
+    21,
+    22,
+    23
+   ]
+  },
+  {
+   "week": 27,
+   "type": "new",
+   "books": [
+    "liao-047",
+    "liao-048",
+    "liao-049"
+   ]
+  },
+  {
+   "week": 28,
+   "type": "new",
+   "books": [
+    "liao-050",
+    "liao-051",
+    "liao-052"
+   ]
+  },
+  {
+   "week": 29,
+   "type": "new",
+   "books": [
+    "liao-053",
+    "liao-054",
+    "liao-055"
+   ]
+  },
+  {
+   "week": 30,
+   "type": "new",
+   "books": [
+    "liao-056",
+    "liao-057",
+    "liao-058"
+   ]
+  },
+  {
+   "week": 31,
+   "type": "review",
+   "reviewWeeks": [
+    27,
+    28,
+    29,
+    30
+   ]
+  },
+  {
+   "week": 32,
+   "type": "review",
+   "reviewWeeks": [
+    27,
+    28,
+    29,
+    30
+   ]
+  },
+  {
+   "week": 33,
+   "type": "new",
+   "books": [
+    "liao-059",
+    "liao-060",
+    "liao-061"
+   ]
+  },
+  {
+   "week": 34,
+   "type": "new",
+   "books": [
+    "liao-062",
+    "liao-063",
+    "liao-064"
+   ]
+  },
+  {
+   "week": 35,
+   "type": "new",
+   "books": [
+    "liao-065",
+    "liao-066",
+    "liao-067"
+   ]
+  },
+  {
+   "week": 36,
+   "type": "new",
+   "books": [
+    "liao-068",
+    "liao-069",
+    "liao-070"
+   ]
+  },
+  {
+   "week": 37,
+   "type": "review",
+   "reviewWeeks": [
+    33,
+    34,
+    35,
+    36
+   ]
+  },
+  {
+   "week": 38,
+   "type": "review",
+   "reviewWeeks": [
+    33,
+    34,
+    35,
+    36
+   ]
+  },
+  {
+   "week": 39,
+   "type": "review",
+   "reviewWeeks": [
+    33,
+    34,
+    35,
+    36
+   ]
+  },
+  {
+   "week": 40,
+   "type": "new",
+   "books": [
+    "liao-071",
+    "liao-072",
+    "liao-073",
+    "liao-074"
+   ]
+  },
+  {
+   "week": 41,
+   "type": "new",
+   "books": [
+    "liao-075",
+    "liao-076",
+    "liao-077",
+    "liao-078"
+   ]
+  },
+  {
+   "week": 42,
+   "type": "new",
+   "books": [
+    "liao-079",
+    "liao-080",
+    "liao-081",
+    "liao-082"
+   ]
+  },
+  {
+   "week": 43,
+   "type": "new",
+   "books": [
+    "liao-083",
+    "liao-084",
+    "liao-085",
+    "liao-086"
+   ]
+  },
+  {
+   "week": 44,
+   "type": "review",
+   "reviewWeeks": [
+    40,
+    41,
+    42,
+    43
+   ]
+  },
+  {
+   "week": 45,
+   "type": "review",
+   "reviewWeeks": [
+    40,
+    41,
+    42,
+    43
+   ]
+  },
+  {
+   "week": 46,
+   "type": "new",
+   "books": [
+    "liao-087",
+    "liao-088",
+    "liao-089",
+    "liao-090"
+   ]
+  },
+  {
+   "week": 47,
+   "type": "new",
+   "books": [
+    "liao-091",
+    "liao-092",
+    "liao-093",
+    "liao-094"
+   ]
+  },
+  {
+   "week": 48,
+   "type": "new",
+   "books": [
+    "liao-095",
+    "liao-096",
+    "liao-097"
+   ]
+  },
+  {
+   "week": 49,
+   "type": "new",
+   "books": [
+    "liao-098",
+    "liao-099",
+    "liao-100"
+   ]
+  },
+  {
+   "week": 50,
+   "type": "review",
+   "reviewWeeks": [
+    46,
+    47,
+    48,
+    49
+   ]
+  },
+  {
+   "week": 51,
+   "type": "review",
+   "reviewWeeks": [
+    46,
+    47,
+    48,
+    49
+   ]
+  },
+  {
+   "week": 52,
+   "type": "review",
+   "reviewWeeks": [
+    46,
+    47,
+    48,
+    49
+   ]
+  }
+ ]
+}

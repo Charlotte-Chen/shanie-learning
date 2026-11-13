@@ -1,0 +1,9 @@
+{
+  "bookLists": [
+    {"id": "liao", "file": "data/lists/liao.json", "name": "廖彩杏書單"}
+  ],
+  "programs": [
+    {"id": "dwe", "file": "data/programs/dwe.json", "name": "寰宇 DWE"}
+  ],
+  "talk": "data/talk.json"
+}

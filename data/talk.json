@@ -1,0 +1,38 @@
+{
+  "note": "以下句子都是本站自己寫的簡單親子對話，不是書裡的原文。大人說英文，孩子用指的、用一個字、用中文回答都可以。",
+  "book": [
+    {"zh": "拿出書，先一起看封面", "en": "Look! What's on the cover?", "reply": "A bear! / 指一指"},
+    {"zh": "讓孩子自己翻頁", "en": "Can you turn the page?", "reply": "OK! / 翻頁"},
+    {"zh": "讀完問最喜歡哪一頁", "en": "Which page do you like?", "reply": "This one!"},
+    {"zh": "請孩子幫忙把書放回去", "en": "Can you put the book back?", "reply": "OK!"}
+  ],
+  "tags": {
+    "rhyme":    [{"zh": "跟著節奏拍手", "en": "Clap, clap! Let's clap together!", "reply": "Clap, clap!"}, {"zh": "大人唸慢一點，停一下讓孩子接", "en": "One more time? Ready, go!", "reply": "Again!"}],
+    "animals":  [{"zh": "指著動物問", "en": "Who is this? Is it a dog?", "reply": "No! It's a ___."}, {"zh": "學動物叫", "en": "What does it say?", "reply": "Moo! / Woof!"}, {"zh": "找動物", "en": "Can you find the bird?", "reply": "Here!"}],
+    "colors":   [{"zh": "指著顏色問", "en": "What color is it?", "reply": "Red!"}, {"zh": "在家裡找同一個顏色", "en": "Can you find something blue?", "reply": "Here! Blue!"}],
+    "counting": [{"zh": "一起用手指數", "en": "Let's count! One, two, three…", "reply": "Four, five!"}, {"zh": "問有幾個", "en": "How many? Let's count.", "reply": "Three!"}],
+    "vehicles": [{"zh": "指交通工具", "en": "Is it a bus or a train?", "reply": "A bus!"}, {"zh": "學聲音", "en": "What sound does it make?", "reply": "Beep beep! / Choo choo!"}],
+    "food":     [{"zh": "問喜不喜歡", "en": "Do you like apples?", "reply": "Yes! / No!"}, {"zh": "假裝吃", "en": "Yum! Do you want some?", "reply": "Yes, please!"}],
+    "alphabet": [{"zh": "找字母", "en": "Can you find the letter S? S for Shanie!", "reply": "Here!"}, {"zh": "大人說一個字母，孩子指", "en": "Where is A?", "reply": "Here!"}],
+    "bedtime":  [{"zh": "睡前說晚安", "en": "Good night, moon. Good night, Shanie.", "reply": "Good night!"}, {"zh": "問累不累", "en": "Are you sleepy?", "reply": "Yes / No!"}],
+    "body":     [{"zh": "一起動起來", "en": "Can you jump? Jump, jump, jump!", "reply": "Jump!"}, {"zh": "摸身體部位", "en": "Touch your nose!", "reply": "Nose!"}],
+    "days":     [{"zh": "說今天星期幾", "en": "Today is ___. What day is today?", "reply": "Monday!"}],
+    "nature":   [{"zh": "出門時指給孩子看", "en": "Look! A leaf! What color is it?", "reply": "Green!"}, {"zh": "問看到什麼", "en": "What do you see outside?", "reply": "A tree!"}],
+    "space":    [{"zh": "晚上看天空", "en": "Look up! Can you see the moon?", "reply": "Moon!"}, {"zh": "問太陽在哪", "en": "Where is the sun? Up, up, up!", "reply": "Up!"}],
+    "dinosaur": [{"zh": "學恐龍", "en": "Can you be a dinosaur? Roar!", "reply": "Roar!"}, {"zh": "比大小", "en": "Is it big or small?", "reply": "Big!"}],
+    "feelings": [{"zh": "問心情", "en": "Is he happy or sad?", "reply": "Happy! / Sad."}, {"zh": "抱一下", "en": "I love you! Can I have a hug?", "reply": "Hug!"}],
+    "monster":  [{"zh": "假裝怕怕", "en": "Oh no! A monster! Go away!", "reply": "Go away!"}],
+    "story":    [{"zh": "指著主角問", "en": "Who is this?", "reply": "指一指 / 說名字"}, {"zh": "猜下一頁", "en": "What happens next?", "reply": "Let's see!"}]
+  },
+  "dwe": {
+    "sp": [{"zh": "看完影片問誰出現", "en": "Who did you see? Mickey?", "reply": "Mickey!"}, {"zh": "影片停下來問問題時", "en": "Can you say it too?", "reply": "跟著說"}],
+    "ta": [{"zh": "刷卡前先問", "en": "What's this?", "reply": "It's a ___."}, {"zh": "刷完再刷一次", "en": "Let's swipe it again!", "reply": "Again!"}, {"zh": "錄音時", "en": "Your turn! Say it into the mic.", "reply": "跟著說"}],
+    "sa": [{"zh": "一起唱跳", "en": "Let's sing and dance!", "reply": "Yay!"}, {"zh": "問喜歡哪首", "en": "Which song do you like?", "reply": "This one!"}],
+    "bk": [{"zh": "聽音檔翻頁", "en": "Where are we? Turn the page!", "reply": "Here!"}, {"zh": "指圖", "en": "Can you point to the ___?", "reply": "Here!"}],
+    "qa": [{"zh": "百變卡二選一", "en": "Is it big or small?", "reply": "Big!"}, {"zh": "換孩子問大人", "en": "Now you ask me!", "reply": "What's this?"}],
+    "fg": [{"zh": "點讀筆輪流點", "en": "My turn, your turn!", "reply": "My turn!"}],
+    "sbs": [{"zh": "上課前", "en": "Let's open the treasure chest!", "reply": "Yay!"}],
+    "lp": [{"zh": "手作時", "en": "Cut, cut, cut! Now glue it.", "reply": "Glue!"}, {"zh": "做好了", "en": "You did it! Great job!", "reply": "Yay!"}],
+    "pa": [{"zh": "找玩具", "en": "Where's the ball? Can you find it?", "reply": "Here!"}]
+  }
+}

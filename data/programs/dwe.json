@@ -1,0 +1,48 @@
+{
+  "id": "dwe",
+  "name": "寰宇 迪士尼美語世界（DWE）",
+  "shortName": "寰宇 DWE",
+  "kind": "program-guide",
+  "colors": [
+    {"id": "blue",   "name": "Blue 藍",    "programs": [1, 2, 3],    "hex": "#3b7dd8"},
+    {"id": "green",  "name": "Green 綠",   "programs": [4, 5, 6],    "hex": "#2e9e5b"},
+    {"id": "lime",   "name": "Lime 淺綠",  "programs": [7, 8, 9],    "hex": "#8cc63f"},
+    {"id": "yellow", "name": "Yellow 黃",  "programs": [10, 11, 12], "hex": "#f2b600"}
+  ],
+  "officialNote": "以下「官方說明」只整理寰宇家庭官網與官方使用說明公開寫到的內容：教材分 Blue → Green → Lime → Yellow 四色（課本 1–12），同顏色的教材搭配使用；主課程影片共 12 集主題、65 個故事。官方的逐週進度表和《上手指南》放在會員系統，本站拿不到，所以不自己編週次課表。每天做哪幾項，請以你手上的上手指南或顧問給的進度為準。",
+  "official": [
+    {"id": "sp",   "group": "daily", "name": "Straight Play 主課程影片", "how": "看你目前這一集（同顏色）的影片，先熟悉故事和歌。影片會停下來問問題，讓孩子跟著回答、跟著做動作。", "src": [0, 5]},
+    {"id": "ta",   "group": "daily", "name": "Talkalong Cards 刷卡（Playmate Air）", "how": "拿跟正在看的 Straight Play 集數對應的卡來刷：聽單字和句子，回答卡片上的問題；可用錄音功能錄孩子的聲音。", "src": [1, 5]},
+    {"id": "sa",   "group": "daily", "name": "Sing Along 歌唱", "how": "聽或看同顏色的歌，跟著唱、跟著動。", "src": [2, 5]},
+    {"id": "bk",   "group": "daily", "name": "Books ＋ Story and Songs CD 故事書與音檔", "how": "放音檔時陪孩子翻到對的頁、指著圖；可以聊故事內容，用中文聊也可以。孩子在玩別的時候也可以放音檔當背景。", "src": [3, 5]},
+    {"id": "sbs",  "group": "stage", "name": "Step by Step 課程（百寶箱＋活動盒）", "how": "孩子能塗色、能照英文指令一步步做時（官方說明約 3–4 歲起），跟著影片上課；不懂的地方回去看對應的 Straight Play。", "src": [3, 5]},
+    {"id": "qa",   "group": "stage", "name": "Q&A Cards 百變創意問答卡", "how": "用卡片回答各種問題，練習與應用 DWE 學到的話；答對答錯卡片都會給回應和提示。", "src": [4, 5]},
+    {"id": "fg",   "group": "stage", "name": "Fun With Words ／ Fun and Games 點讀（同顏色）", "how": "用點讀筆複習同顏色出現的單字，再玩問答和找找看遊戲。", "src": [6, 5]},
+    {"id": "lp",   "group": "stage", "name": "Let's Play 米奇魔幻遊戲組（手作）", "how": "跟著影片裡的美國小朋友做手工、畫畫、栽培或魔術，用 DWE 學到的話玩。", "src": [7, 5]},
+    {"id": "pa",   "group": "extra", "name": "Play Along! 跟著玩", "how": "給年紀較小孩子的前導教材，孩子大了也可以拿出來玩；找出跟影片一樣的玩具一起模仿。", "src": [8, 5]}
+  ],
+  "officialTime": "官網常見問題：建議每天從 5–20 分鐘開始，不必固定時段、不必一次做完；融入吃飯、玩耍、睡前。家長不用教、不用糾正，陪伴和建立習慣就好。",
+  "supplements": [
+    {"id": "s-bg",    "name": "同顏色音檔整天輪播當背景", "how": "起床、吃飯、玩的時候放這個顏色的 Sing Along／Story and Songs，孩子不用專心聽。", "src": [9]},
+    {"id": "s-5card", "name": "一天 5 張 Talkalong 卡", "how": "每天只拿 5 張，每張刷幾次、錄音一次；孩子沒興趣的卡先換成他喜歡的主題（動物、食物、顏色），用完再回到這一集的卡。", "src": [9]},
+    {"id": "s-video", "name": "影片少量、固定時段", "how": "一天一段影片就好，看完關掉，其他時間用音檔。", "src": [9]},
+    {"id": "s-qa",    "name": "百變卡當遊戲，不當考試", "how": "藏卡找卡、二選一、你問我答換角色；孩子答不出來就大人自己回答示範，不追問。", "src": []},
+    {"id": "s-weekend","name": "週末做 Let's Play ／ Play Along", "how": "平日時間短就先跳過手作，週末一次做一個。", "src": []},
+    {"id": "s-short", "name": "孩子不想玩時：短、停在還想玩的時候", "how": "每項 3–5 分鐘，讓孩子選先做哪一項（刷卡或唱歌），還想玩就停；不用每項都做完。", "src": []}
+  ],
+  "rotationNote": "本站建議的輪替（不是官方）：Step by Step、Q&A、點讀、Let's Play 這幾項官方沒公開每天的排法，下面依星期幾輪流提醒一項，你可以照顧問給的進度改做別的。",
+  "rotation": {"1": "fg", "2": "qa", "3": "sbs", "4": "fg", "5": "qa", "6": "lp", "0": "pa"},
+  "sources": [
+    {"label": "寰宇家庭官網：主課程影片系列 Straight Play（12 主題、65 故事）", "url": "https://worldfamily.com.tw/program/straight-play/"},
+    {"label": "寰宇家庭官網：智慧型語言學習機 Talkalong Cards", "url": "https://worldfamily.com.tw/program/playmate-air-talk-along-cards/"},
+    {"label": "寰宇家庭官網：歌唱教學系列 Sing Along", "url": "https://worldfamily.com.tw/program/sing-along/"},
+    {"label": "寰宇家庭官網：主課程教學系列（Books & Songs、Step by Step）", "url": "https://worldfamily.com.tw/program/main-program/"},
+    {"label": "寰宇家庭官網：百變創意問答卡 Q&A Cards", "url": "https://worldfamily.com.tw/program/qa-cards/"},
+    {"label": "日本家長網站整理的 DWE 官方使用順序（四色順序、各教材用法、Step by Step 約 3–4 歲）", "url": "https://www.ekuji.com/dwe-world-family/kyouzai/"},
+    {"label": "寰宇家庭官網：米奇趣味互動學習系列 Fun With Words／Fun and Games", "url": "https://worldfamily.com.tw/program/fun-with-words-fun-and-games/"},
+    {"label": "寰宇家庭官網：米奇魔幻遊戲組 Let's Play", "url": "https://worldfamily.com.tw/program/lets-play/"},
+    {"label": "寰宇家庭官網：跟著玩幼兒學習系列 Play Along!", "url": "https://worldfamily.com.tw/program/play-along/"},
+    {"label": "家長分享：嘎嘎 飯糰飯捲的媽（背景音檔、一天 5 張卡、影片少量）", "url": "https://ga-life.com/dwe/"},
+    {"label": "寰宇家庭官網：常見問題（每天 5–20 分鐘）", "url": "https://worldfamily.com.tw/faq/"}
+  ]
+}
